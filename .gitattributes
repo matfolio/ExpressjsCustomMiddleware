@@ -1,0 +1,2 @@
+* linguist-vendored
+*.expressjs linguist-vendored=false
