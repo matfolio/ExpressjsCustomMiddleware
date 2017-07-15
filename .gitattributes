@@ -1,2 +1,2 @@
 * linguist-vendored
-*.js linguist-language=express
+*.js linguist-language=javascript
